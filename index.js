@@ -53,7 +53,7 @@ const defaultProps = {
     cancelStyle: {},
     cancelTextStyle: {},
     overlayStyle: {},
-    cancelText: 'cancel'
+    cancelText: 'Cancel'
 };
 
 export default class ModalPicker extends BaseComponent {
